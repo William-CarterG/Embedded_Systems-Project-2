@@ -1,0 +1,27 @@
+MICROPYTHON - Sistemas Embebidos P2/private.pem.key
+MICROPYTHON - Sistemas Embebidos P2/cert.pem.crt
+MICROPYTHON - Sistemas Embebidos P2/.DS_Store
+.DS_Store
+# dependencies
+WEB - Sistemas Embebidos P2/node_modules
+WEB - Sistemas Embebidos P2/.pnp
+WEB - Sistemas Embebidos P2/.pnp.js
+
+# testing
+WEB - Sistemas Embebidos P2/coverage
+
+# production
+WEB - Sistemas Embebidos P2/build
+
+# misc
+WEB - Sistemas Embebidos P2/.DS_Store
+WEB - Sistemas Embebidos P2/src/.DS_Store
+WEB - Sistemas Embebidos P2/.env.local
+WEB - Sistemas Embebidos P2/.env.development.local
+WEB - Sistemas Embebidos P2/.env.test.local
+WEB - Sistemas Embebidos P2/.env.production.local
+
+WEB - Sistemas Embebidos P2/npm-debug.log*
+WEB - Sistemas Embebidos P2/yarn-debug.log*
+WEB - Sistemas Embebidos P2/yarn-error.log*
+WEB - Sistemas Embebidos P2/.parcel-cache*
